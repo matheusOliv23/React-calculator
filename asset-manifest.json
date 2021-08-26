@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/matheusOliv23/React-calculator.git/static/css/main.b7561ce4.chunk.css",
+    "main.js": "/matheusOliv23/React-calculator.git/static/js/main.61a385b4.chunk.js",
+    "main.js.map": "/matheusOliv23/React-calculator.git/static/js/main.61a385b4.chunk.js.map",
+    "runtime-main.js": "/matheusOliv23/React-calculator.git/static/js/runtime-main.a230c895.js",
+    "runtime-main.js.map": "/matheusOliv23/React-calculator.git/static/js/runtime-main.a230c895.js.map",
+    "static/js/2.b7cad327.chunk.js": "/matheusOliv23/React-calculator.git/static/js/2.b7cad327.chunk.js",
+    "static/js/2.b7cad327.chunk.js.map": "/matheusOliv23/React-calculator.git/static/js/2.b7cad327.chunk.js.map",
+    "index.html": "/matheusOliv23/React-calculator.git/index.html",
+    "static/css/main.b7561ce4.chunk.css.map": "/matheusOliv23/React-calculator.git/static/css/main.b7561ce4.chunk.css.map",
+    "static/js/2.b7cad327.chunk.js.LICENSE.txt": "/matheusOliv23/React-calculator.git/static/js/2.b7cad327.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a230c895.js",
+    "static/js/2.b7cad327.chunk.js",
+    "static/css/main.b7561ce4.chunk.css",
+    "static/js/main.61a385b4.chunk.js"
+  ]
+}
